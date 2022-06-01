@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/state-preview-card-Gg71vU4K2L](https://www.frontendmentor.io/solutions/state-preview-card-Gg71vU4K2L)
+- Live Site URL: [https://zeinaradwan.github.io/State-preview-card/](https://zeinaradwan.github.io/State-preview-card/)
 
 ## My process
 
